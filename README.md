@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Reinforcement learning and Diffusion Models.<br>👯 I’m looking to collaborate on side-project of mine in Diffusion-space.<br>🤝 I’m looking for help with creating videos for my tech channel.<br>🌱 I’m currently learning Reasoning LLMs.<br>⚡ Fun fact: I am the greatest generalist to ever exist.
+🔭 I’m currently working on Reinforcement learning and Diffusion Models.<br>👯 I’m looking to collaborate on side-project of mine in Diffusion-space.<br>🤝 I’m looking for help with creating videos for my tech channel.<br>🌱 I’m currently learning Transformers and Reasoning LLMs.<br>⚡ Fun fact: I am the greatest generalist to ever exist.
 
 
 ## 🌐 Socials:
