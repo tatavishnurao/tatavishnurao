@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on Reinforcement learning and Diffusion Models.<br>👯 I’m looking to collaborate on side-project of mine in Diffusion-space.<br>🤝 I’m looking for help with Research projects aligning with Agentic Architectures.<br>🌱 I’m currently learning Transformers and Reasoning LLMs.<br>⚡ Fun fact: I am not the Greatest Generalist of all time but the Greatest Generalist to ever exist.
- 
+  
   
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tata-vishnu-vardhan-rao) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@tatavishnurao) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@vvrtata07) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@tatavishnurao) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tatavishnurao@gmail.com) 
