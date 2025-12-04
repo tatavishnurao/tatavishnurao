@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on NLP and Speech research.<br>👯 I’m looking to collaborate on side-project of mine in Diffusion-space.<br>🤝 I’m looking for help with Research projects aligning with Agentic Architectures.<br>🌱 I’m currently focusing on becoming employable for AI/ML roles with flexibility maxed out.<br>⚡ Fun fact: I am not the Greatest Generalist of all time but the Greatest Generalist to ever exist.
+🔭 I’m currently working on NLP and Speech research.<br>👯 I’m looking to collaborate on side-project of mine in Diffusion-space.<br>🤝 I’m looking for help with Research projects aligning with Agentic Architectures.<br>🌱 I’m currently focusing on becoming employable for AI/ML roles with flexibility maxed out.<br>
     
      
 ## 🌐 Socials:  
