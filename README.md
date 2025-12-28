@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on NLP and Speech research.<br>👯 I’m looking to collaborate on creating innovative projects in SLMs.<br>🤝 I’m looking for collaborators with Research projects.<br>🌱 I’m currently focusing on becoming employable for AI/ML roles with flexibility maxed out.<br>
+🔭 I’m currently working on NLP and Speech research.<br>👯 I’m looking to collaborate on creating innovative projects in SLMs.<br>🤝 I’m looking for collaborators for writing Research papers.<br>🌱 I’m currently focusing on becoming employable for AI/ML roles with flexibility maxed out.<br>
     
      
 ## 🌐 Socials:  
