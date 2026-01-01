@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on NLP and Speech research.<br>👯 I’m looking to collaborate on creating innovative projects in SLMs.<br>🤝 I’m looking for collaborators for writing Research papers.<br>🌱 I’m currently focusing on becoming employable for AI/ML roles with flexibility maxed out.<br>
     
-     
+       
 ## 🌐 Socials:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tata-vishnu-vardhan-rao) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@tatavishnurao) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@vvrtata07) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@tatavishnurao) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tatavishnurao@gmail.com)  
  
