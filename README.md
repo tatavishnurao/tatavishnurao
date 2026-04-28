@@ -1,6 +1,6 @@
 #  About Me:
 I’m currently working on System Engineering in ML and exploring & experimenting with low-level languages.<br> I’m looking to collaborate on Research projects on Inference and AI Infrastructure.<br> I’m looking for collaborators for writing Research papers.<br> I’m currently focusing on becoming employable for AI/ML roles with flexibility maxed out.<br>
-          
+           
        
 ## Socials:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tatavishnurao/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@tatavishnurao) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@tatavishnurao) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@tatavishnurao) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tatavishnurao@gmail.com)  
