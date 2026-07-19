@@ -1,6 +1,4 @@
 #  About Me:
-# Vishnu Vardhan Rao
-
 ### ML Systems Engineer · LLM Inference & Performance
 
 Building efficient, correctness-tested AI systems—from GPU memory and KV-cache
